@@ -1,0 +1,13 @@
+﻿user_id_sender,user_id_recipient,image_id,like
+user002,user001,image001,1
+user003,user001,image001,1
+user004,user001,image001,0
+user005,user001,image001,0
+user002,user001,image002,1
+user003,user001,image002,1
+user004,user001,image002,1
+user005,user001,image002,1
+user001,user002,image003,0
+user003,user002,image003,1
+user004,user002,image003,1
+user005,user002,image003,1
